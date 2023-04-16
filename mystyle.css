@@ -1,0 +1,10 @@
+* {
+    margin: 0px;/*设置四周边距都为0*/
+    box-sizing: border-box;/*宽高的设置值包括border等*/
+}
+body {
+    background: url("images/background.jpg");/*设置背景图片*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;/*设置背景图不随网页滑动而改变*/
+    background-size: cover;
+}
